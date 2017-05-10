@@ -1,2 +1,2 @@
-# nodeemp
-Employee management Project in Nodejs
+# node-emp-app
+Employee Management App using node js 
